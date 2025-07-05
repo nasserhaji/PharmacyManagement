@@ -88,6 +88,15 @@ emit DrugTransferred(_id, _from, _to);
 
 به طور کلی، استفاده از بلاکچین در داروخانه‌ها به افزایش شفافیت و امنیت اطلاعات در مورد داروها و تراکنش‌های مرتبط با آنها کمک می‌کند و همچنین به بهبود کارایی و کیفیت خدمات در داروخانه‌ها کمک می‌کند.
 
+## 📜 License
+
+This project is licensed under a **Custom NonCommercial Attribution License**.
+
+- ✅ Free to use, modify, and share for **non-commercial** and **educational** purposes
+- ❌ **Commercial use, resale, or monetization** is strictly prohibited without prior written consent
+- 📛 Attribution required: Developed by Mohammad Nasser Haji Hashemabad (https://mohammadnasser.com)
+
+📬 For commercial licensing or inquiries: [info@mohammadnasser.com](mailto:info@mohammadnasser.com)
 
 
 
